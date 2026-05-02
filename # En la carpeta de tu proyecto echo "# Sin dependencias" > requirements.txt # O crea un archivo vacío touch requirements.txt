@@ -1,4 +1,0 @@
-# En la carpeta de tu proyecto
-echo "# Sin dependencias" > requirements.txt
-# O crea un archivo vacío
-touch requirements.txt
